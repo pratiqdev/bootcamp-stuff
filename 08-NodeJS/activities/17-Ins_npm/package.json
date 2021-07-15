@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "badmath": "^1.0.1",
+    "inquirer": "^8.1.2"
+  }
+}
